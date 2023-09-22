@@ -10,10 +10,10 @@ Geospatial Data Retrieval: Fetch geolocational data from the REST APIs on the HE
 Clustering Analysis: Apply K-Means Clustering for location clustering using ScikitLearn.
 Spatial Presentation: Displayed the results on a map using Folium.
 
-![Flow Image](https://drive.google.com/file/d/1BZR8nC5ERaGFO6FUamLj2NTzRR6lPZx9/view?usp=sharing)
+![Flow Image](https://drive.google.com/file/d/1BZR8nC5ERaGFO6FUamLj2NTzRR6lPZx9/view?usp=drive_link)
 
 # Result after implementation
-![Output Image](https://drive.google.com/file/d/1yBKs2jF0ks538apepOT1gCiL1e958gxq/view?usp=sharing)
+![Output Image](https://drive.google.com/file/d/1yBKs2jF0ks538apepOT1gCiL1e958gxq/view?usp=drive_link)
 
 # Conclusion
 
