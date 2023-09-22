@@ -1,25 +1,19 @@
 # Apartment-Buddy
 # Exploratory-Analysis-Of-Geolocational-Data
-Data Collection: Retrieve datasets from relevant sources or locations. This could involve web scraping, accessing databases, or downloading data files.
+This project caters to a wide audience, including students and working professionals. It helps individuals find accommodation near their preferred food outlets, benefiting both residents and food providers. Restaurant managers can use this data to identify optimal locations based on customer demographics.
 
-Data Cleaning: Preprocess and clean the datasets using Pandas or similar data manipulation tools. This step includes handling missing values, removing duplicates, and formatting data.
-
-Data Visualization: Visualize the cleaned data using boxplots. You can utilize libraries like Matplotlib, Seaborn, or Pandas to create these visualizations, which can help identify patterns and outliers.
-
-Geospatial Data Retrieval: Fetch geolocational data from external sources like the Foursquare API or other REST APIs. This data could include location coordinates, venue details, or any other geospatial information relevant to your analysis.
-
-Data Analysis: Apply K-Means Clustering or other clustering algorithms to group locations based on certain criteria. Scikit-Learn is a popular library for implementing K-Means clustering in Python.
-
-Cluster Interpretation: Interpret the results of the clustering analysis to understand the characteristics of each cluster. This step may involve analyzing the features that contributed to the clustering.
-
-Visualization of Clusters: Create visualizations, such as maps, to present the clustered locations. Folium is a useful library for generating interactive maps with clustered data.
-
-Insight Presentation: Summarize and present your findings, insights, and recommendations based on the clustering results and visualizations.
 # The project consists of the following stages:
-![Flow Image](Flow.png)
+Data Acquisition: Gather datasets from appropriate sources.
+Data Preprocessing: Prepare and clean the datasets for analysis using Pandas.
+Data Visualization: Visualize the data through boxplots using Matplotlib, Seaborn, or Pandas.
+Geospatial Data Retrieval: Fetch geolocational data from the REST APIs on the HERE API Website or others.
+Clustering Analysis: Apply K-Means Clustering for location clustering using ScikitLearn.
+Spatial Presentation: Displayed the results on a map using Folium.
+
+![Flow Image](https://drive.google.com/file/d/1BZR8nC5ERaGFO6FUamLj2NTzRR6lPZx9/view?usp=sharing)
 
 # Result after implementation
-<img width="959" alt="Screenshot 2022-07-15 160502" src="Output.png">
+![Output Image](https://drive.google.com/file/d/1yBKs2jF0ks538apepOT1gCiL1e958gxq/view?usp=sharing)
 
 # Conclusion
 
